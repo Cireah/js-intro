@@ -28,5 +28,6 @@ let language;
 
 population = 10;
 language = "swedish";
+/*continent = "asia"; //går inte*/
 
 console.log(country + "\n" + continent + "\n" + population + "\n" + "Is it a land? " + isLand + "\n" + language);
